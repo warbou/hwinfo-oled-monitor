@@ -63,8 +63,8 @@ pip install requests psutil
 ### 0. Clone or Download this Repository
 
 ```bash
-git clone https://github.com/SergioDanielFernandesCruz/projeto_final.git # needs updated URL
-cd projeto_final/hwinfo_oled-specs                                       # needs updated path
+git clone https://github.com/warbou/hwinfo-oled-monitor
+cd hwinfo_oled-specs                                    
 ```
 
 Or download the ZIP file from GitHub and extract it.
