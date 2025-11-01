@@ -1,0 +1,8 @@
+# HWiNFO OLED Monitor Requirements
+# Install with: pip install -r requirements.txt
+
+requests>=2.25.0
+psutil>=5.8.0
+
+# Note: pywhinfo is included as pywhinfo.py in this repository
+# No need to install it separately
