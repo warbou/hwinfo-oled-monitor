@@ -73,7 +73,7 @@ Or download the ZIP file from GitHub and extract it.
 
 1. Download and install [HWiNFO64](https://www.hwinfo.com/download/)
 2. Launch HWiNFO and go to **Settings** (⚙️ icon)
-3. Navigate to **Safety** tab
+3. Navigate to **General** tab
 4. Enable **"Shared Memory Support"**
 5. Click **OK**
 6. **Restart HWiNFO64** (important - restart the app!)
@@ -151,7 +151,7 @@ The script will remember your selected options in `hwinfo_monitor_config.json`.
 
 ### "Could not connect to HWiNFO shared memory"
 - Make sure HWiNFO64 is running
-- Enable "Shared Memory Support" in HWiNFO Settings → Safety
+- Enable "Shared Memory Support" in HWiNFO Settings → General
 - **Restart HWiNFO** after enabling (very important!)
 - Make sure you're running HWiNFO64 (not 32-bit version)
 
