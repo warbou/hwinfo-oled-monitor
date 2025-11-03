@@ -57,7 +57,7 @@ def test_hwinfo_connection():
         print()
         print("  Make sure:")
         print("    1. HWiNFO64 is running")
-        print("    2. 'Shared Memory Support' is enabled (Settings → Safety)")
+        print("    2. 'Shared Memory Support' is enabled (Settings → General)")
         print("    3. HWiNFO was restarted after enabling shared memory")
         print()
         return False

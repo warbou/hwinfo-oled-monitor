@@ -790,7 +790,7 @@ def main():
         print(f"ERROR: Could not connect to HWiNFO shared memory: {e}")
         print()
         print("Setup Instructions:")
-        print("1. Open HWiNFO64 Settings → Safety")
+        print("1. Open HWiNFO64 Settings → General")
         print("2. Enable 'Shared Memory Support'")
         print("3. Restart HWiNFO64 (important!)")
         print("4. Make sure HWiNFO64 is running in the background")
